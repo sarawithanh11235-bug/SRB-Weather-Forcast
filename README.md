@@ -1,2 +1,2 @@
-# SRB-Weather-Forcast
-SRB-Weather-Forcast App
+# sarah-weather-app
+Sarah's Weather App
